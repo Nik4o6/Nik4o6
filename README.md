@@ -101,7 +101,7 @@ Também atuo com **implantação de serviços em nuvem e implementação de Inte
 ## 🌐 Connect with Me
  
 <p align="center">
-<a href="https://github.com/Nk4o6" target="_blank">
+<a href="https://github.com/Nik4o6" target="_blank">
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
 </a>
 </p>
