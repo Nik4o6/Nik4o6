@@ -70,7 +70,7 @@ Também atuo com **implantação de serviços em nuvem e implementação de Inte
 
 
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whi…
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whi…)
 ![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white)
 ![Servers](https://img.shields.io/badge/Servers-444444?style=for-the-badge&logo=linux&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
